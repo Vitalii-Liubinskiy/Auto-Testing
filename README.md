@@ -25,8 +25,8 @@ Early-stage UX risk assessment for software teams—before development or releas
 | Document | Description |
 | --- | --- |
 | [README.md](https://github.com/Vitalli-Liubinskiy/Auto-Testing/blob/main/README.md) | Project overview, current positioning, research summary, and next steps. |
-| [research/research.md](https://github.com/Vitalli-Liubinskiy/Auto-Testing/blob/main/research/research.md) | Full research report in Markdown: hypothesis development, audience profile, coded statistics, JTBD prioritization, competitor matrix, functionality patterns, review excerpts, and sources. |
-| [research/research.html](https://github.com/Vitalli-Liubinskiy/Auto-Testing/blob/main/research/research.html) | Interactive HTML version of the research report with charts, tables, source details, and light/dark appearance support. |
+| [research/research.md](research/research.md) | Full research report in Markdown: hypothesis development, audience profile, coded statistics, JTBD prioritization, competitor matrix, functionality patterns, review excerpts, and sources. |
+| [research/research.html]([https://github.com/Vitalli-Liubinskiy/Auto-Testing/blob/main/research/research.html](https://research-eight-steel.vercel.app/)) | Interactive HTML version of the research report with charts, tables, source details, and light/dark appearance support. |
 | [research/screens/](https://github.com/Vitalli-Liubinskiy/Auto-Testing/tree/main/research/screens) | Screenshots and visual evidence collected during competitor and product research. |
 
 **Live research report:** [https://research-eight-steel.vercel.app](https://research-eight-steel.vercel.app/)
